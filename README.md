@@ -76,10 +76,6 @@ Este repositório pode incluir estudos, modelos, estruturas e exemplos públicos
 - Posicionamento profissional
 - Projetos digitais autorais
 
-## Observação
-
-Este portfólio apresenta uma visão pública e resumida da minha atuação. Materiais sensíveis, dados internos, informações comerciais, documentos estratégicos e conteúdos confidenciais de empresas não são expostos neste repositório.
-
 ## Portfólio audiovisual
 
 Uma seleção de edições de vídeo, Reels, vídeos comerciais, materiais institucionais, projetos criativos, áudio, branding e peças gráficas organizadas por categoria.
@@ -87,6 +83,10 @@ Uma seleção de edições de vídeo, Reels, vídeos comerciais, materiais insti
 O portfólio foi estruturado para demonstrar ritmo de edição, narrativa visual, clareza de mensagem, adaptação para plataformas digitais, criatividade e acabamento profissional.
 
 Acesse: [Portfólio Audiovisual — Renato Rumão](https://drive.google.com/drive/folders/1Q5irEuLD9wVNQ31vAQ9tFAicz-LY2xOf?usp=sharing)
+
+## Observação
+
+Este portfólio apresenta uma visão pública e resumida da minha atuação. Materiais sensíveis, dados internos, informações comerciais, documentos estratégicos e conteúdos confidenciais de empresas não são expostos neste repositório.
 
 ## Contato
 
